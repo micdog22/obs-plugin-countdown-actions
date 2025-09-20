@@ -1,5 +1,5 @@
 
-# Countdown Actions — Contador com Ações de Cena/Fonte (Script Python)
+# Countdown Actions - Contador com Ações de Cena/Fonte (Script Python)
 
 Cria um **contador regressivo** que atualiza um **Text (GDI+/FT2)** e dispara **ações** ao terminar: trocar de cena, mostrar/ocultar fonte ou rodar um stinger. Útil para telas de **Starting Soon** ou **BRB**.
 
