@@ -1,5 +1,5 @@
 
-# Countdown Actions — updates a text source with mm:ss and triggers actions on finish
+# Countdown Actions: updates a text source with mm:ss and triggers actions on finish
 import obspython as obs
 import time
 
